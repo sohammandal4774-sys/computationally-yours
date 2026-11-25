@@ -19,10 +19,10 @@ Day 2. One paragraph each, each tied to a real condition.
 **Role:** I take a single beam that looks plain and show the colors hidden inside it. I make complicated things readable by splitting them into parts.
 
 
-## 3 Compound Interest
+## 3 Quark-Gluon Plasma
 
-**Time:** Future
+**Time:** Past (the first microseconds after the Big Bang)
 
-**Place:** Inside every patient account, running quietly in the background
+**Place:** The early universe
 
-**Role:** I reward whoever stays long enough. I start with almost nothing to show, then grow on top of my own growth until the curve bends upward. I do my best work when nobody interrupts me.
+**Role:** I was the hot, dense soup that quarks and gluons moved through freely, before they cooled and locked into the particles that make up everything else. I'm where it all started.
