@@ -4,7 +4,9 @@ Day 2. One paragraph each, each tied to a real condition.
 
 ## 1 Mycelium
 Time: Present
+
 Place: Underground, beneath a forest floor
+
 Role: I link separate trees into one network and pass nutrients to whichever one needs them most. Nobody sees me, but the whole forest depends on the connections.
 
 ## 2 Prism
